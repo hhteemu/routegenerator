@@ -1,0 +1,3 @@
+This is a school project.
+
+This is a mobile application which was made mainly with React Native and Google Maps API. The application asks user for an input which is then used as an parameter to calculate a running route. The application is still a work in process and this is the first version of it. I plan to add more features, but first I need to make adjustments for the algorithm, which calculates the random routes.
